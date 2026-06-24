@@ -1,0 +1,12 @@
+{
+  "name": "Hive Gents PG",
+  "short_name": "Hive PG",
+  "description": "Boys hostel & dormitory in Kakkanad, Kochi. 2/3/4/6 sharing from ₹3000.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
