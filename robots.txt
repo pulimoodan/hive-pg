@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pulimoodan.github.io/hive-pg/sitemap.xml
+Sitemap: https://hive.akbrews.com/sitemap.xml

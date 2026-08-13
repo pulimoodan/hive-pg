@@ -35,7 +35,7 @@ python3 -m http.server 8000
 
 Live URL (after enabling Pages):
 
-**https://pulimoodan.github.io/hive-pg/**
+**https://hive.akbrews.com/**
 
 Repo: [github.com/pulimoodan/hive-pg](https://github.com/pulimoodan/hive-pg)
 
