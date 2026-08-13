@@ -54,7 +54,7 @@ Add a `CNAME` file, point DNS to GitHub Pages, and update URLs in `index.html`, 
 
 ## Before going live (TODO)
 
-- **Phone number**: `+91 77367 57200` — in `index.html` and `script.js` (`WHATSAPP_NUMBER`).
+- **Phone number**: `+91 6282646258` — in `index.html` and `script.js` (`WHATSAPP_NUMBER`).
 - **Coordinates**: `10.0261, 76.3416` and postal code `682021` — confirm against your Google Maps listing.
 - **Prices**: 6 sharing ₹3000, 3/4 sharing ₹3200, 2 sharing ₹4000.
 

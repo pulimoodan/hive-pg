@@ -1,5 +1,5 @@
 // Update WhatsApp number in one place if needed.
-const WHATSAPP_NUMBER = "917736757200";
+const WHATSAPP_NUMBER = "916282646258";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Current year in footer
